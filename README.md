@@ -10,4 +10,4 @@ This repository contains my work for the ITAI1378 course. Below you'll find fold
 Please explore the folders to see detailed work and reports. Each folder contains a `README.md` file with specific instructions and explanations.
 
 ## GitHub Repository Link
-[GitHub Repository](https://github.com/vviletta/CoursePortfolio)
+[GitHub Repository](https://github.com/vviletta1/CoursePortfolio)
